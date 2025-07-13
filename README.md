@@ -1,15 +1,16 @@
 # 动手学强化学习
 
-Tips: 若运行gym环境的代码时遇到报错，请尝试pip install gym==0.18.3安装此版本的gym库，若仍有问题，欢迎提交issue！
+Tips: 若运行gym环境的代码时遇到报错，请尝试pip install gym==0.18.3安装此版本的gym库，若仍有问题，欢迎提交issue！（前15张均已改正过，更新至最新的gym环境）
 
-欢迎来到《动手学强化学习》（Hands-on Reinforcement Learning）的地带。该系列从强化学习的定义等基础讲起，一步步由浅入深，介绍目前一些主流的强化学习算法。每一章内容都是一个Jupyter Notebook，内含详细的图文介绍和代码讲解。
+算法配套解读参考：https://www.yuque.com/decisive-p5kgf/robot?# 《机器人》中的强化学习部分。
 
-* 由于GitHub上渲染notebook效果有限，我们推荐读者前往[Hands-on RL主页](https://hrl.boyuai.com/)进行浏览，我们在此提供了纯代码版本的notebook，供大家下载运行。
+## 推荐思路
+先了解基本的强化学习概念：https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0（后面内容有些难以理解，配合李宏毅视频最好）
+## 课件：
+动手学强化学习
+## 视频推荐
+李宏毅：https://www.bilibili.com/video/BV1aes8ebEz3/?spm_id_from=333.788.videopod.episodes&vd_source=a2417ade71290cd940c5e2edb896b97b&p=4
+## 代码
+动手学强化学习
 
-* 欢迎在[京东](https://item.jd.com/13129509.html)和[当当网](http://product.dangdang.com/29391150.html)购买《动手学强化学习》。
 
-* 如果你发现了本书的任何问题，或者有任何改善建议的，欢迎提交issue！
-
-* 本书配套的强化学习课程已上线到[伯禹学习平台](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)，所有人都可以免费学习和讨论。
-
-![](https://boyuai.oss-cn-shanghai.aliyuncs.com/disk/tmp/hrl-poster.jpeg)
